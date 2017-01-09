@@ -1,2 +1,2 @@
 # SugarcaneYCS
-investigating Yellow Canopy Syndrome in sugarcane plants
+Investigating Yellow Canopy Syndrome in sugarcane plants, using an RNAseq approach.
