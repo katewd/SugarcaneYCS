@@ -61,8 +61,9 @@ index = len(n50)/2
 avg = []
 
 if index % 2 == 0:
-    first = n50[index-1]
-    second = n50[index]
+    index_int = int(index)
+    first = n50[index_int-1]
+    second = n50[index_int]
     avg.append(first)
     avg.append(second)
     result = numpy.mean(avg)
