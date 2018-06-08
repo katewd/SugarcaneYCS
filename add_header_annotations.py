@@ -36,6 +36,6 @@ with open (sys.argv[2], "rU") as myfasta:
             else:
                 outfile.write(">" + str(line) + "\n")
         else:
-            outfile.write(line)
+            outfile.write(line + "\n")
 
-outfile.close() # close the file
+outfile.close()             # close the file
