@@ -10,7 +10,6 @@
 
 #PBS -m ea
 
-#PBS -M k.wathen-dunn@uq.net.au
 
 
 module load bowtie2/2.2.7
