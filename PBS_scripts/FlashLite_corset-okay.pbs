@@ -12,4 +12,4 @@
 module load samtools
 
 
-/home/studentID/ycs/my-software/corset-1.06-linux64/corset -D 99999999999 -p STV.okay -g 1,1,1,2,2,2 -n Control-soapTrans.okay,Control-trinity.okay,Control-velvet.okay,YCS-soapTrans.okay,YCS-trinity.okay,YCS-velvet.okay /30days/s4439186/*.bam
+/home/studentID/ycs/my-software/corset-1.06-linux64/corset -D 99999999999 -p STV.okay -g 1,1,1,2,2,2 -n Control-soapTrans.okay,Control-trinity.okay,Control-velvet.okay,YCS-soapTrans.okay,YCS-trinity.okay,YCS-velvet.okay /30days/studentID/*.bam
