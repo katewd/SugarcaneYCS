@@ -9,7 +9,6 @@
 
 #PBS -m ea
 
-#PBS -M kwathen-dunn@sugarresearch.com.au
 
 
 module load samtools
